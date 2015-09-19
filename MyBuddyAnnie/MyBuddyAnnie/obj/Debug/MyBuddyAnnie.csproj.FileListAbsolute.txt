@@ -1,0 +1,11 @@
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\Debug\MyBuddyAnnie.exe.config
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\Debug\MyBuddyAnnie.exe
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\Debug\MyBuddyAnnie.pdb
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\Debug\EloBuddy.dll
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\Debug\EloBuddy.SDK.dll
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\Debug\SharpDX.dll
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\Debug\Newtonsoft.Json.dll
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\obj\Debug\MyBuddyAnnie.csprojResolveAssemblyReference.cache
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\obj\Debug\MyBuddyAnnie.exe
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\obj\Debug\MyBuddyAnnie.pdb

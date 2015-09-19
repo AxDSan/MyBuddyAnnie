@@ -1,0 +1,2 @@
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\Release\MyBuddyAnnie.exe.config
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\obj\Release\MyBuddyAnnie.csprojResolveAssemblyReference.cache

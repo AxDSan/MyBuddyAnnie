@@ -1,0 +1,10 @@
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\x86\Release\MyBuddyAnnie.exe.config
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\x86\Release\MyBuddyAnnie.exe
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\x86\Release\MyBuddyAnnie.pdb
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\x86\Release\EloBuddy.dll
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\x86\Release\EloBuddy.SDK.dll
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\x86\Release\SharpDX.dll
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\x86\Release\SharpDX.Direct3D9.dll
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\bin\x86\Release\Newtonsoft.Json.dll
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\obj\x86\Release\MyBuddyAnnie.exe
+c:\users\axd\documents\visual studio 2015\Projects\MyBuddyAnnie\MyBuddyAnnie\obj\x86\Release\MyBuddyAnnie.pdb
